@@ -1,0 +1,29 @@
+body {
+    background: #606c88;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3f4c6b, #606c88);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3f4c6b, #606c88); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+}
+
+#main-container {
+    padding: 80px 0;
+}
+
+.big-title {
+    font-size: 60px;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+h2 {
+    color: #c4cbdb;
+}
+
+img {
+    display: block;
+    height: 200px;
+    margin: 80px auto;
+}
